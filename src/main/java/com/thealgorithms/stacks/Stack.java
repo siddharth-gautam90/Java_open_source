@@ -1,4 +1,4 @@
-public class StackRemoveNodes {
+public class Stack{
     public ListNode removeNode(ListNode head) {
         Stack<ListNode> st = new Stack<>();
         ListNode temp = head;
